@@ -10,14 +10,14 @@ export const Footer = () => {
         <div className="w-1/3">
           <img src={img1} alt="retro pcs" className="object-cover h-[150px]" />
         </div>
-        <div className="w-2/3">
+        <div className="w-2/3 px-4 md:px-0">
           <p className="text-2xl text-grayishBlue font-bold">01</p>
-          <h3 className="text-xl font-bold mt-4">
+          <h3 className="text-xl font-bold mt-2">
             <a href="#" className="hover:text-softRed">
               Reviving Retro PCs
             </a>
           </h3>
-          <p className="text-darkGrayish mt-4">
+          <p className="text-darkGrayish mt-2">
             What happens when the old PCs are given modern upgrades?
           </p>
         </div>
@@ -26,14 +26,14 @@ export const Footer = () => {
         <div className="w-1/3">
           <img src={img2} alt="retro pcs" className="object-cover h-[150px]" />
         </div>
-        <div className="w-2/3">
+        <div className="w-2/3 px-4 md:px-0">
           <p className="text-2xl text-grayishBlue font-bold">02</p>
-          <h3 className="text-xl font-bold mt-4">
+          <h3 className="text-xl font-bold mt-2">
             <a href="#" className="hover:text-softRed">
               Top 10 Laptops of 2022
             </a>
           </h3>
-          <p className="text-darkGrayish mt-4">
+          <p className="text-darkGrayish mt-2">
             Our best picks for various needs and budgets.
           </p>
         </div>
@@ -42,14 +42,14 @@ export const Footer = () => {
         <div className="w-1/3">
           <img src={img3} alt="retro pcs" className="object-cover h-[150px]" />
         </div>
-        <div className="w-2/3">
+        <div className="w-2/3 px-4 md:px-0">
           <p className="text-2xl text-grayishBlue font-bold">03</p>
-          <h3 className="text-xl font-bold mt-4">
+          <h3 className="text-xl font-bold mt-2">
             <a href="#" className="hover:text-softRed">
               The Growth of Gaming
             </a>
           </h3>
-          <p className="text-darkGrayish mt-4">
+          <p className="text-darkGrayish mt-2">
             How the pandemic has sparked fresh opportunities.
           </p>
         </div>
